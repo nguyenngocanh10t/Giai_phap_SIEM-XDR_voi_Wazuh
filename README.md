@@ -20,7 +20,8 @@ Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống mạng ch
 -	Giám sát việc thực thi các lệnh độc hại trên Wazuh
 -	Phát hiện tấn công Shellshock
 •	Thiết Kế: Sơ đồ kiến trúc hệ thống mạng
- 
+ ![image](https://github.com/user-attachments/assets/12517104-4e3f-4751-952e-ef3984cf89b2)
+
 
 1.1	Mô tả
 
