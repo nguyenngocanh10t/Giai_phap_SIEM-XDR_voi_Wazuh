@@ -32,8 +32,16 @@ Công cụ: Wazuh là một nền tảng giám sát bảo mật mã nguồn mở
 
 3. Giám sát tính toàn vẹn: Theo dõi các thay đổi trong tập tin và thư mục, phát hiện các thay đổi trái phép.
 
-4. Quản lý tuân thủ: Wazuh cung cấp các công cụ để đảm bảo hệ thống của bạn tuân thủ các tiêu chuẩn bảo mật và quy định như PCI DSS, HIPAA, GDPR,...
 
-5. Phản ứng sự cố: Khi phát hiện sự cố bảo mật, Wazuh cung cấp các cảnh báo và có khả năng kích hoạt các hành động tự động để khắc phục hoặc giảm thiểu rủi ro.
+ 1.2	Chuẩn bị
+
+-	01 máy ảo hệ điều hành Windows Server 2012
+-	02 máy ảo hệ điều hành Ubuntu Linux 24.04.1 : 1 máy làm Ubuntu Server phía Wazuh Agent, 1 máy Ubuntu chạy Wazuh Server
+
+
+
+5. Quản lý tuân thủ: Wazuh cung cấp các công cụ để đảm bảo hệ thống của bạn tuân thủ các tiêu chuẩn bảo mật và quy định như PCI DSS, HIPAA, GDPR,...
+
+6. Phản ứng sự cố: Khi phát hiện sự cố bảo mật, Wazuh cung cấp các cảnh báo và có khả năng kích hoạt các hành động tự động để khắc phục hoặc giảm thiểu rủi ro.
 
 Wazuh có thể được triển khai trên nhiều hệ thống khác nhau, từ các máy chủ vật lý, máy ảo đến các nền tảng đám mây.
