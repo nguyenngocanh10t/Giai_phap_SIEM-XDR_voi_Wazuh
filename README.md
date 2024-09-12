@@ -1,4 +1,7 @@
 # Xay_dung_he_thong_giam_sat_voi_cong_cu_ma_nguon_mo_Wazuh
+
+      ********UPDATING*******
+      
 •	Mục Tiêu:
 Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống mạng cho công ty, doanh nghiệp, trường học,… với công cụ mã nguồn mở Wazuh với các chức năng chính như sau:
 -	Giám sát và phát hiện sự cố
