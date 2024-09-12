@@ -7,7 +7,6 @@ Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống mạng ch
 -	Giám sát và phát hiện sự cố
 -	Ngăn chặn IP độc hại
 -	Quản lý tập tin và tích hợp
--	Cảnh báo
 
 •	Yêu cầu hệ thống: 
 -	Cấu hình chặn địa chỉ IP độc hại truy cập đến Web Server
