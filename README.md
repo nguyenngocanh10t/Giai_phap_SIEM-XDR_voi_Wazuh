@@ -1,9 +1,9 @@
-# Xay_dung_he_thong_giam_sat_mang_dua_tren_nen_tang_Wazuh
+# Xay_dung_he_thong_giam_sat_dua_tren_nen_tang_Wazuh
 
       ********UPDATING*******
       
 •	Mục Tiêu:
-Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống mạng dựa trên nền tảng Wazuh với các chức năng chính như sau:
+Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống dựa trên nền tảng Wazuh với các chức năng chính như sau:
 -	Giám sát và phát hiện sự cố
 -	Ngăn chặn IP độc hại
 -	Quản lý tập tin và tích hợp
