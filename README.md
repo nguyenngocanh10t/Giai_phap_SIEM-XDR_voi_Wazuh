@@ -3,7 +3,7 @@
       ********UPDATING*******
       
 •	Mục Tiêu:
-Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống mạng cho công ty, doanh nghiệp, trường học,… với công cụ mã nguồn mở Wazuh với các chức năng chính như sau:
+Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống mạng với mã nguồn mở Wazuh với các chức năng chính như sau:
 -	Giám sát và phát hiện sự cố
 -	Ngăn chặn IP độc hại
 -	Quản lý tập tin và tích hợp
