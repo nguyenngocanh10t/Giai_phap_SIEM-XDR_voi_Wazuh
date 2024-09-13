@@ -1,6 +1,6 @@
 # Xây dựng hệ thống giám sát an ninh mạng, an toàn thông tin dựa trên nền tảng mã nguồn mở Wazuh
 
-      ********UPDATING*******
+                                           **'****** **UPDATING** *****'**
       
 •	**Mục Tiêu**:
 Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống dựa trên nền tảng Wazuh với các chức năng chính như sau:
