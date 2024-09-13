@@ -45,7 +45,7 @@ Wazuh là một nền tảng giám sát bảo mật mã nguồn mở, cung cấp
 Wazuh có thể được triển khai trên nhiều hệ thống khác nhau, từ các máy chủ vật lý, máy ảo đến các nền tảng đám mây.
 
 
-** 1.2	Chuẩn bị**
+**1.2	Chuẩn bị**
 
 -	01 máy ảo hệ điều hành Windows Server 2012 hoặc 2019
 -	02 máy ảo hệ điều hành Ubuntu Linux 20.04.6 hoặc có thể version cao hơn : 1 máy làm Ubuntu Server phía Wazuh Agent, 1 máy Ubuntu chạy Wazuh Server *(thực hiện giám sát 2 máy Win Server và Ubuntu Server Agent)*
