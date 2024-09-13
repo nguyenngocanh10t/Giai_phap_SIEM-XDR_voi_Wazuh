@@ -2,13 +2,13 @@
 
                                            **'****** **UPDATING** *****'**
       
-•	**Mục Tiêu**:
+**Mục Tiêu**:
 Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống dựa trên nền tảng Wazuh với các chức năng chính như sau:
 -	Giám sát và phát hiện sự cố
 -	Ngăn chặn IP, tiến trình, phần mềm độc hại
 -	Quản lý tập tin và tích hợp cảnh báo
 
-•	**Yêu cầu hệ thống**: 
+**Yêu cầu hệ thống**: 
 -	Cấu hình chặn địa chỉ IP độc hại truy cập đến Web Server
 -	Giám sát tính toàn vẹn file(FIM) trên Wazuh
 -	Phát hiện cuộc tấn công Brute-force trên Wazuh
@@ -23,16 +23,16 @@ Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống dựa tr�
 -	Giám sát việc thực thi các lệnh độc hại trên Wazuh
 -	Phát hiện tấn công Shellshock
   
-•	**Thiết Kế**: Sơ đồ kiến trúc hệ thống mạng
+**Thiết Kế**: Sơ đồ kiến trúc hệ thống mạng
  ![image](https://github.com/user-attachments/assets/64f5a695-b499-471b-aff2-ca9429ce1cbb)
-•	**Chuẩn bị**
+**Chuẩn bị**
 -	01 máy ảo hệ điều hành Windows Server 2012 hoặc 2019
   https://www.microsoft.com/en-us/evalcenter/download-windows-server-2012-r2 
 -	02 máy ảo hệ điều hành Ubuntu Linux 20.04.6 hoặc có thể version cao hơn : 1 máy làm Ubuntu Server phía Wazuh Agent, 1 máy Ubuntu chạy Wazuh Server *(thực hiện giám sát 2 máy Win Server và Ubuntu Server Agent)*
   https://releases.ubuntu.com/focal/
  	https://ubuntu.com/download/server 
 
-•	**Mô tả**
+**Mô tả**
 
 Wazuh là một nền tảng giám sát bảo mật mã nguồn mở, cung cấp các tính năng như phát hiện mối đe dọa, giám sát tính toàn vẹn, phản ứng sự cố và quản lý tuân thủ. Nó thường được sử dụng để theo dõi các sự kiện bảo mật trong mạng, phát hiện xâm nhập và duy trì tính toàn vẹn của hệ thống bằng cách theo dõi liên tục các thay đổi trong cơ sở hạ tầng. Dưới đây là một số tính năng chính của Wazuh:
 
