@@ -1,4 +1,4 @@
-# Xay_dung_he_thong_giam_sat_dua_tren_nen_tang_Wazuh
+# Xây dựng hệ thống giám sát an ninh mạng dựa trên nền tảng mã nguồn mở Wazuh
 
       ********UPDATING*******
       
