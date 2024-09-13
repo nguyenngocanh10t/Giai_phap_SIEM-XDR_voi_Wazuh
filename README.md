@@ -1,4 +1,4 @@
-# Xây dựng hệ thống giám sát an ninh mạng dựa trên nền tảng mã nguồn mở Wazuh
+# Xây dựng hệ thống giám sát an ninh mạng, an toàn thông tin dựa trên nền tảng mã nguồn mở Wazuh
 
       ********UPDATING*******
       
