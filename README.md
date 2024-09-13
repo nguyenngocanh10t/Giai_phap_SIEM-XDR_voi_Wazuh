@@ -24,7 +24,8 @@ Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống mạng ch
 -	Phát hiện tấn công Shellshock
   
 •	Thiết Kế: Sơ đồ kiến trúc hệ thống mạng
- ![image](https://github.com/user-attachments/assets/12517104-4e3f-4751-952e-ef3984cf89b2)
+ ![image](https://github.com/user-attachments/assets/64f5a695-b499-471b-aff2-ca9429ce1cbb)
+
 
 
 1.1	Mô tả
