@@ -24,7 +24,8 @@ Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống dựa tr�
 -	Phát hiện tấn công Shellshock
   
 **Thiết Kế**: Sơ đồ kiến trúc hệ thống mạng
- ![image](https://github.com/user-attachments/assets/64f5a695-b499-471b-aff2-ca9429ce1cbb)
+![image](https://github.com/user-attachments/assets/071bf443-f211-4fe7-8b93-0e5ba2a253e8)
+
 **Chuẩn bị**
 -	01 máy ảo hệ điều hành Windows Server 2012 hoặc 2019
   https://www.microsoft.com/en-us/evalcenter/download-windows-server-2012-r2 
