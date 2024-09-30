@@ -1,14 +1,19 @@
-# Xây dựng hệ thống giám sát an ninh mạng, an toàn thông tin dựa trên nền tảng mã nguồn mở Wazuh
+# Giải pháp SIEM && XDR sử dụng mã nguồn mở Wazuh
 
                                            **'****** **UPDATING** *****'**
       
 **Mục Tiêu**:
-Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống dựa trên nền tảng Wazuh với các chức năng chính như sau:
--	Giám sát và phát hiện sự cố
--	Ngăn chặn IP, tiến trình, phần mềm độc hại
--	Quản lý tập tin và tích hợp cảnh báo
+Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống với Wazuh với các chức năng chính như sau:
+- Phân Tích Log (Log Analysis)
+- Phát Hiện Xâm Nhập (Intrusion Detection)
+- Kiểm Tra Lỗ Hổng (Vulnerability Detection)
+- Giám Sát Tính Toàn Vẹn Tập Tin (File Integrity Monitoring)
+- Đánh Giá Cấu Hình (Configuration Assessment)
+- Phản Ứng Sự Cố (Incident Response)
+- Cảnh Báo Thời Gian Thực (Real-Time Alerting)
+- Dashboards và Báo Cáo (Dashboards and Reporting)
 
-**Yêu cầu hệ thống**: 
+**Module thực nghiệm**: 
 -	Cấu hình chặn địa chỉ IP độc hại truy cập đến Web Server
 -	Giám sát tính toàn vẹn file(FIM) trên Wazuh
 -	Phát hiện cuộc tấn công Brute-force trên Wazuh
@@ -23,8 +28,9 @@ Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống dựa tr�
 -	Giám sát việc thực thi các lệnh độc hại trên Wazuh
 -	Phát hiện tấn công Shellshock
   
-**Thiết Kế**: Sơ đồ kiến trúc hệ thống mạng
-![image](https://github.com/user-attachments/assets/071bf443-f211-4fe7-8b93-0e5ba2a253e8)
+**Thiết Kế**: Sơ đồ hệ thống mạng
+![image](https://github.com/user-attachments/assets/a094ccdc-98ce-455c-862b-5e605de3c798)
+
 
 **Chuẩn bị**
 -	01 máy ảo hệ điều hành Windows Server 2012 hoặc 2019
