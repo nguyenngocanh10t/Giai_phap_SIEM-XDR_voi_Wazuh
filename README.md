@@ -27,6 +27,8 @@ Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống với Waz
 -	Phát hiện tiến trình ẩn trên Ubuntu endpoint 
 -	Giám sát việc thực thi các lệnh độc hại trên Wazuh
 -	Phát hiện tấn công Shellshock
+
+Tài liệu tham khảo ở trang chính chủ Wazuh: https://documentation.wazuh.com/current/proof-of-concept-guide/index.html 
   
 **Thiết Kế**: Sơ đồ hệ thống mạng
 ![image](https://github.com/user-attachments/assets/a094ccdc-98ce-455c-862b-5e605de3c798)
