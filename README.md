@@ -1,6 +1,10 @@
 # Giải pháp SIEM && XDR sử dụng mã nguồn mở Wazuh
+![image](https://github.com/user-attachments/assets/13973b45-8816-4378-a039-40eb2288dcea)
+
 
                                            **'****** **UPDATING** *****'**
+                                          
+
       
 **Mục Tiêu**:
 Xây dựng hệ thống giám sát bảo đảm an toàn hệ thống với Wazuh với các chức năng chính như sau:
